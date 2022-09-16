@@ -3,7 +3,7 @@
 This powershell script emulates the "focus by hover" I use on Linux but on "Winbloats" :D
 
 ## Setup
-1. Clone this repository under `%USERPROFILE%\WinConfigs\`
+1. Clone this repository under `%USERPROFILE%\WinConfigs\`, follow the next steps using the Command Prompt (CMD):
 ```cmd
 mkdir %USERPROFILE%\WinConfigs
 cd %USERPROFILE%\WinConfigs
